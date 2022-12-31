@@ -20,4 +20,4 @@ getgenv().BloxFruitNotifier = {
     ["DiscordWebhook"] = "https://discord.com/api/webhooks/1000092005042487336/0mdKh5bfiMsIOl154ZJDW45px-K3VHiS4uZ5_9kIzQzqVKK76kQGnl2Ah9XzdpGRF6JD",
     ["shutdown"] = false,
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/nhathuypopo6/Roblox-Script/main/BloxFruitNotifier_.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DungSadBoyz/Anime/main/README.md"))()
